@@ -18,4 +18,4 @@ ScrollBar scrollBar = widgetFactory.createScrollBar();
 WidgetFactory widgetFactory = new MotifWidgetFactory();
 ```
 
-Factory返回產品的操作稱爲Factory Method。
+Factory中返回產品的操作稱爲Factory Method。
